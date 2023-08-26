@@ -1,0 +1,12 @@
+just need to catch error and stop at same line, error msg does not need to be the same
+
+win10：
+mini_python ./tcp2/in01.py
+python ./tcp2/in01.py
+
+(关闭 python App execution Aliases)
+(Windows 搜索 App execution Aliases）
+
+linux：
+./mini_python ./tcp2/in01.py
+python ./tcp2/in01.py 

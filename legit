@@ -1,0 +1,49 @@
+$ sh run.sh
+python in01.py
+sum1:  30
+sum2:  60
+sum1:  30
+sum2:  60
+sum1:  30
+sum2:  60
+sum1:  30
+sum2:  60
+python in02.py
+i= 1
+ith element= 6
+python in03.py
+Traceback (most recent call last):
+  File "E:\CS-Stuff\OneDrive\FALL 2022\COSC 4315 Prog lang\COSC4315\hw2\tcp2\in03.py", line 19, in <module>
+    add(i)
+  File "E:\CS-Stuff\OneDrive\FALL 2022\COSC 4315 Prog lang\COSC4315\hw2\tcp2\in03.py", line 9, in add
+    temp = x + val
+TypeError: can only concatenate list (not "int") to list
+python in04.py
+listZ:  [2, 4, 6, 8, 5, 7, 8, 9, 10]
+python in05.py
+listA:  [300, 2, 4, 6, 8, 10, 3, 6, 9, 12, 15, 4, 8, 12, 16, 20]
+python in06.py
+45
+python in07.py
+1
+[10, 20, 30, 40]
+python in08.py
+l:  [1, 2, 3, 100]
+l:  [0, 1, 2, 3, 100]
+l:  [0, 1, 2, 3, 100, 100]
+listlen 6
+python in09.py
+listX:  [1, 1, 1, 12, 12, 12, 23, 23, 23]
+python in10.py
+sum:  4
+sum:  204
+python in11.py
+[1, 2, 3, 4, 100, 100, 100]
+python in12.py
+val:  100
+python in13.py
+8
+python in14.py
+400
+python in15.py
+300

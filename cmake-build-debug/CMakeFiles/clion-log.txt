@@ -1,0 +1,4 @@
+E:\CLion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/CLion/bin/ninja/win/ninja.exe -G Ninja -S "E:\CS-Stuff\OneDrive\FALL 2022\COSC 4315 Prog lang\COSC4315" -B "E:\CS-Stuff\OneDrive\FALL 2022\COSC 4315 Prog lang\COSC4315\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/CS-Stuff/OneDrive/FALL 2022/COSC 4315 Prog lang/COSC4315/cmake-build-debug
